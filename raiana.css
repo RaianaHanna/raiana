@@ -1,13 +1,13 @@
 .cccc
 {
-    background-color: rgb(11, 56, 180);
-    color: rgb(15, 35, 212);
+    background-color: rgb(242, 245, 255);
+    color: rgb(0, 0, 0);
 }
 p {
     font-size: 18px;
 }
 .paragrafo {
-    font-size: 16px;
+    font-size: 15px;
 }
 .paragrafo1 {
     font-size: 30px;
@@ -16,10 +16,10 @@ p {
     font-size: 20px;
 }
 .imagem{
-    width: 20%;
+    width: 25%;
     background-image: linear-gradient(#161af8);
 }
 .lista {
     display: inline-block;
-    margin: 0 16px;  
+    margin: 0 18px;  
 }
