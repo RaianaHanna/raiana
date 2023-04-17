@@ -1,19 +1,19 @@
 .cabecalho
 {
-    background-color: rgb(224, 233, 233)
+    background-color: rgb(255, 255, 255)
 }
 h1 {
     text-align: center;
 }
 h2 {
-    background-color: rgb(49, 75, 224);
+    background-color: rgb(243, 243, 247);
 }
 h3{
     padding-left: 10%;
 }
 .imagem{
-    width: 20px;
-    background-image: linear-gradient(#383d58);
+    width: 250px;
+    background-image: linear-gradient(#f3f3f3);
 }
 p {
     font-size: 20px
