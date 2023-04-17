@@ -1,12 +1,12 @@
 .cabecalho
 {
-    background-color: aqua
+    background-color: rgb(224, 233, 233)
 }
 h1 {
     text-align: center;
 }
 h2 {
-    background-color: blueviolet;
+    background-color: rgb(49, 75, 224);
 }
 h3{
     padding-left: 10%;
@@ -30,5 +30,5 @@ p {
     margin: 0 16px
 }
 footer{
-    background-color: black;
+    background-color: rgb(243, 234, 234);
 }
